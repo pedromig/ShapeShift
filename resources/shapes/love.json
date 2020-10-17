@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "love.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1447,
+				"h": 510
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "love_00000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 168
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 297,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 168
+					},
+					"frame": {
+						"x": 1,
+						"y": 171,
+						"w": 297,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 168
+					},
+					"frame": {
+						"x": 1,
+						"y": 341,
+						"w": 296,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 168
+					},
+					"frame": {
+						"x": 299,
+						"y": 341,
+						"w": 296,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 292,
+						"h": 168
+					},
+					"frame": {
+						"x": 300,
+						"y": 1,
+						"w": 292,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 292,
+						"h": 168
+					},
+					"frame": {
+						"x": 300,
+						"y": 171,
+						"w": 292,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 288,
+						"h": 168
+					},
+					"frame": {
+						"x": 594,
+						"y": 1,
+						"w": 288,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 288,
+						"h": 168
+					},
+					"frame": {
+						"x": 594,
+						"y": 171,
+						"w": 288,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 284,
+						"h": 168
+					},
+					"frame": {
+						"x": 597,
+						"y": 341,
+						"w": 284,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 284,
+						"h": 168
+					},
+					"frame": {
+						"x": 883,
+						"y": 341,
+						"w": 284,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 282,
+						"h": 168
+					},
+					"frame": {
+						"x": 884,
+						"y": 1,
+						"w": 282,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 282,
+						"h": 168
+					},
+					"frame": {
+						"x": 884,
+						"y": 171,
+						"w": 282,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 278,
+						"h": 168
+					},
+					"frame": {
+						"x": 1168,
+						"y": 1,
+						"w": 278,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 278,
+						"h": 168
+					},
+					"frame": {
+						"x": 1168,
+						"y": 171,
+						"w": 278,
+						"h": 168
+					}
+				},
+				{
+					"filename": "love_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 297,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 274,
+						"h": 168
+					},
+					"frame": {
+						"x": 1169,
+						"y": 341,
+						"w": 274,
+						"h": 168
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0fdd4ac99ead9639bbab317453d62ec0:af34cf936dd241f167926a552d5f9182:7f84f9b657b57037d77ff46252171049$"
+	}
+}

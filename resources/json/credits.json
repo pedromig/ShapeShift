@@ -1,0 +1,27 @@
+[
+    {
+        "delay": 100,
+        "size": 30,
+        "t": "Credits"
+    },
+    {
+        "delay": 1000,
+        "size": 20,
+        "t": "Gabriel Rodrigues Cortês, DEI 2020"
+    },
+    {
+        "delay": 2000,
+        "size": 20,
+        "t": "João Cabral Pinto, DEI 2020"
+    },
+    {
+        "delay": 3000,
+        "size": 20,
+        "t": "Pedro Duque Rodrigues, DEI 2020"
+    },
+    {
+        "delay": 25000,
+        "size": 25,
+        "t": "© 2020 Copyright - Gabriel | João | Pedro"
+    }
+]

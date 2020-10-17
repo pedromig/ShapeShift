@@ -1,0 +1,52 @@
+{
+  "player": {
+    "speedX": 40,
+    "speedY": 1200,
+    "maxSpeedX": 250,
+    "maxSpeedY": 2500,
+    "dragX": 600,
+    "dragY": 0,
+    "gravityX": 0,
+    "gravityY": 0,
+    "mass": 1
+  },
+  "love": {
+    "speedX": 40,
+    "speedY": 1200,
+    "maxSpeedX": 200,
+    "maxSpeedY": 2500,
+    "dragX": 600,
+    "dragY": 0,
+    "gravityX": 0,
+    "gravityY": 0,
+    "mass": 1,
+    "scale": 0.6,
+    "eletric": true,
+    "customBox": [150, 170]
+  },
+  "ghost": {
+    "speedX": 80,
+    "speedY": 80,
+    "maxSpeedX": 250,
+    "maxSpeedY": 250,
+    "dragX": 600,
+    "dragY": 600,
+    "allowGravity": false,
+    "mass": 0.5,
+    "scale": 0.5
+  },
+  "eye": {
+    "speedX": 0,
+    "speedY": 0,
+    "maxSpeedX": 200,
+    "maxSpeedY": 2500,
+    "dragX": 800,
+    "dragY": 800,
+    "gravityX": 0,
+    "gravityY": 0,
+    "mass": 2,
+    "scale": 0.6,
+    "repeatAnimation": true,
+    "frameRate": 16
+  }
+}

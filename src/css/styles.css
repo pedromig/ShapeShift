@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+input {
+    text-align: center;
+    font-size: 32px;
+}
+
+@font-face {
+    font-family: Bebas Neue;
+    src: url(../../resources/fonts/bebasneue.woff) format("woff");
+}

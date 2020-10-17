@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "ghost.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 978,
+				"h": 1299
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ghost_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 254
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 161,
+						"h": 254
+					}
+				},
+				{
+					"filename": "ghost_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 255
+					},
+					"frame": {
+						"x": 164,
+						"y": 1,
+						"w": 161,
+						"h": 255
+					}
+				},
+				{
+					"filename": "ghost_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 255
+					},
+					"frame": {
+						"x": 327,
+						"y": 1,
+						"w": 161,
+						"h": 255
+					}
+				},
+				{
+					"filename": "ghost_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 257
+					},
+					"frame": {
+						"x": 490,
+						"y": 1,
+						"w": 161,
+						"h": 257
+					}
+				},
+				{
+					"filename": "ghost_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 257
+					},
+					"frame": {
+						"x": 653,
+						"y": 1,
+						"w": 161,
+						"h": 257
+					}
+				},
+				{
+					"filename": "ghost_phasing_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 257
+					},
+					"frame": {
+						"x": 816,
+						"y": 1,
+						"w": 161,
+						"h": 257
+					}
+				},
+				{
+					"filename": "ghost_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 257,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 164,
+						"y": 258,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 327,
+						"y": 258,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 490,
+						"y": 260,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 653,
+						"y": 260,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 816,
+						"y": 260,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 517,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 164,
+						"y": 518,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 327,
+						"y": 518,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 490,
+						"y": 520,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 653,
+						"y": 520,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 816,
+						"y": 520,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 777,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 164,
+						"y": 778,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 327,
+						"y": 778,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 490,
+						"y": 780,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 653,
+						"y": 780,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 816,
+						"y": 780,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 1037,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 164,
+						"y": 1038,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 327,
+						"y": 1038,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 490,
+						"y": 1040,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 653,
+						"y": 1040,
+						"w": 161,
+						"h": 258
+					}
+				},
+				{
+					"filename": "ghost_phasing_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 161,
+						"h": 258
+					},
+					"frame": {
+						"x": 816,
+						"y": 1040,
+						"w": 161,
+						"h": 258
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b61ec712e0e1ad2b10b9d73c52e637ee:0923e01546153f5652820b195816e27b:b31693b259803c8d1bb23bbc8fdbb451$"
+	}
+}
