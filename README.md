@@ -1,4 +1,4 @@
-# MULT-Project
+# Shape Shift
  Project for the Multimedia subject of the Informatics engineering course @University of Coimbra
 
 ## Game Website
